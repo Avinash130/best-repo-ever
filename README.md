@@ -6,3 +6,5 @@ This is aavinash here.
 I am creating my first branch and commneting it out. 
 Hi 
  master
+ 
+ git checkout -b new-branch-1
